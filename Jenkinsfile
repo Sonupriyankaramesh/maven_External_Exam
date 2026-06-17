@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/Sonupriyankaramesh/myMavenapp.git'
+                git 'https://github.com/Sonupriyankaramesh/maven_External_Exam.git'
             }
         }
 
